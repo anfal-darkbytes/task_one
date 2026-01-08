@@ -1,0 +1,17 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Converter</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    {% include "header.html" %}
+
+    {% block file_converter %}
+    {% endblock %}
+
+    {% include "footer.html" %}
+
+</body>
+</html>
