@@ -7,11 +7,6 @@
             /* padding: 0% 25%; */
         }
 
-        .container-title i {
-            margin-right: 20px;  
-            color: black;  
-        }
-
         .top-body {
             background-color: #343434;
             display: flex;
@@ -111,7 +106,12 @@
         .details-boxes {
             display: flex;
         }
-    
+        
+        /* .pair-containers1 {
+            display: flex;
+        } */
+
+        {}    
 
         /* Header */
 

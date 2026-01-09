@@ -8,7 +8,7 @@
         }
 
         .container-title i {
-            margin-right: 20px;  
+            margin-right: 10px;  
             color: black;  
         }
 
@@ -111,7 +111,12 @@
         .details-boxes {
             display: flex;
         }
-    
+        
+        /* .pair-containers1 {
+            display: flex;
+        } */
+
+        {}    
 
         /* Header */
 

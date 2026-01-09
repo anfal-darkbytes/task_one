@@ -8,8 +8,8 @@
         }
 
         .container-title i {
-            margin-right: 20px;  
-            color: black;  
+            margin-right: 10px;   /* space between icon and text */
+            color: #ff6b6b;       /* icon color */
         }
 
         .top-body {
@@ -111,7 +111,12 @@
         .details-boxes {
             display: flex;
         }
-    
+        
+        /* .pair-containers1 {
+            display: flex;
+        } */
+
+        {}    
 
         /* Header */
 
